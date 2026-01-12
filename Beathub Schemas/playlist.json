@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "title": "string",
+  "description": "string",
+  "creatorUserId": "ObjectId",
+  "songIds": ["ObjectId"],
+  "isPublic": "boolean",
+  "createdAt": "date",
+  "updatedAt": "date"
+}

@@ -1,0 +1,10 @@
+{
+  "_id": "ObjectId",
+  "userId": "ObjectId",
+  "favoriteArtists": ["ObjectId"],
+  "favoriteSongs": ["ObjectId"],
+  "favoriteAlbums": ["ObjectId"],
+  "favoritePlaylists": ["ObjectId"],
+  "createdAt": "date",
+  "updatedAt": "date"
+}
