@@ -1,0 +1,11 @@
+
+{
+  "_id": "ObjectId",
+  "title": "string",
+  "artistId": "ObjectId",
+  "songs": ["ObjectId"],
+  "releaseDate": "date",
+  "coverImage": "string",
+  "createdAt": "date",
+  "updatedAt": "date"
+}

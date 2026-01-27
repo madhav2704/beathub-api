@@ -1,0 +1,24 @@
+{
+  "name": "beathub-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000e\u0000a\u0000t\u0000h\u0000u\u0000b\u0000 \u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhav2704/beathub-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhav2704/beathub-api/issues"
+  },
+  "homepage": "https://github.com/madhav2704/beathub-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^9.1.5"
+  }
+}

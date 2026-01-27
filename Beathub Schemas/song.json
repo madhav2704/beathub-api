@@ -1,0 +1,11 @@
+{
+  "_id": "ObjectId",
+  "title": "string",
+  "artistId": "ObjectId",
+  "albumId": "ObjectId",
+  "duration": "number",
+  "genres": ["string"],
+  "releaseDate": "date",
+  "createdAt": "date",
+  "updatedAt": "date"
+}
